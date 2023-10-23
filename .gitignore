@@ -133,6 +133,7 @@ dmypy.json
 
 # Ignore the data folder
 /data/
+/model_checkpoints/
 
 # Ignore the data.zip file
 data.zip
